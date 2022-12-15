@@ -1,5 +1,0 @@
-ATLAS_URI= mongodb+srv://harsh:seprojectgroup6@cluster0.1uf07.mongodb.net/Library?retryWrites=true&w=majority
-JWT_SECRET=ONLINELIBRARYSYSTEMSEM51234
-SEND_GRID=SG.c0jnpqp9QK2XMheldIUKqA.jUYitRs37BhEGqVZMvf9IWItUaAOietTjnFT98RjyE0a3fU
-COMPANY_EMAIL = onlinelibrary05@gmail.com
-COMPANY_PASSWORD =seprojectgroup6
