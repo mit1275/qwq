@@ -1,5 +1,0 @@
-REACT_APP_JWT_SECRET=BTPSEM4BIDDINGSECRET1234
-REACT_APP_UPLOAD_PRESET=lococart
-REACT_APP_CLOUD_NAME=btp-sem4-cloud
-REACT_APP_IMAGE_API=https://api.cloudinary.com/v1_1/btp-sem4-cloud/image/upload
-REACT_APP_BACKEND_API=https://lococart.herokuapp.com/api/
